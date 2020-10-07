@@ -1,4 +1,4 @@
-# Coupling based Invertible Neural Networks Are Universal Diffeomorphism Approximators
+# Coupling-based Invertible Neural Networks Are Universal Diffeomorphism Approximators
 
 This repository contains the code of [Coupling based Invertible Neural Networks Are Universal Diffeomorphism Approximators](https://arxiv.org/abs/2006.11469). 
 
